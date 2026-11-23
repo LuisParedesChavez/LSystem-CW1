@@ -6,7 +6,7 @@ Luis Antonio Paredes Chavez, 2026.
 Recursive L-system generator with a 2D turtle and procedural leaves. Includes the six trees from
 *The Algorithmic Beauty of Plants* (Fig. 1.24) and two Koch patterns.
 
-**Video:** https://youtu.be/VIDEO-LINK
+**Video:** https://www.youtube.com/watch?v=3SsMFHlXdj8
 
 ## Run
 Open with Unity **6000.3.27f1**, open `Assets/Scenes/SampleScene`, press Play.
