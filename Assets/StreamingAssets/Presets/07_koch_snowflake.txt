@@ -1,0 +1,6 @@
+name = Koch Snowflake
+axiom = F--F--F
+iterations = 4
+angle = 60
+rule = F -> F+F--F+F
+leaves = false

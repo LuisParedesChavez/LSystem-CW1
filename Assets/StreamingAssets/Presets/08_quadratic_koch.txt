@@ -1,0 +1,6 @@
+name = Quadratic Koch Island
+axiom = F-F-F-F
+iterations = 3
+angle = 90
+rule = F -> F-F+F+FF-F-F+F
+leaves = false

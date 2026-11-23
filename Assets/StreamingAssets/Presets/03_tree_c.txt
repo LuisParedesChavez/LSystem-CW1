@@ -1,0 +1,5 @@
+name = Tree C (ABOP Fig 1.24c)
+axiom = F
+iterations = 4
+angle = 22.5
+rule = F -> FF-[-F+F+F]+[+F-F-F]

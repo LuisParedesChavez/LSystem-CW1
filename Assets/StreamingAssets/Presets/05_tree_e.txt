@@ -1,0 +1,6 @@
+name = Tree E (ABOP Fig 1.24e)
+axiom = X
+iterations = 7
+angle = 25.7
+rule = X -> F[+X][-X]FX
+rule = F -> FF

@@ -1,0 +1,6 @@
+name = Tree D (ABOP Fig 1.24d)
+axiom = X
+iterations = 7
+angle = 20
+rule = X -> F[+X]F[-X]+X
+rule = F -> FF
